@@ -6,9 +6,11 @@ Mastodon - Part 3 - statsd and Prometheus: https://ipng.ch/s/articles/2022/11/27
 
 ## Sidekiq
 Scaling Mastodon in the Face of an Exodus: https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/  
+Optimizing Sidekiq for Mastodon 4.0.x: https://www.kujoe.blog/2023/01/optimizing-sidekiq-for-mastodon-40x.html  
 
 ## PostgreSQL
-PG Tune: https://pgtune.leopard.in.ua/
+PG Tune: https://pgtune.leopard.in.ua/  
+Migrating your Mastodon PostgreSQL database to its own server: https://www.kujoe.blog/2022/12/migrating-your-mastodon-postgresql.html
 
 ## Scaling
 Scaling, What it takes to house 43,000 users: https://blog.joinmastodon.org/2017/04/scaling-mastodon/  
