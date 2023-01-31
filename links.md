@@ -1,8 +1,8 @@
 # Links
 ## Monitoring
-https://ipng.ch/s/articles/2022/11/20/mastodon-1.html  
-https://ipng.ch/s/articles/2022/11/24/mastodon-2.html  
-https://ipng.ch/s/articles/2022/11/27/mastodon-3.html  
+Mastodon - Part 1 - Installing: https://ipng.ch/s/articles/2022/11/20/mastodon-1.html  
+Mastodon - Part 2 - Monitoring: https://ipng.ch/s/articles/2022/11/24/mastodon-2.html  
+Mastodon - Part 3 - statsd and Prometheus: https://ipng.ch/s/articles/2022/11/27/mastodon-3.html  
 
 ## Sidekiq
 Scaling Mastodon in the Face of an Exodus: https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/  
