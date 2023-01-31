@@ -6,6 +6,7 @@ Mastodon - Part 3 - statsd and Prometheus: https://ipng.ch/s/articles/2022/11/27
 
 ## Sidekiq
 Scaling Mastodon in the Face of an Exodus: https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/  
+Better Mastodon Sidekiq Scaling With Systemd EnvironmentFile: https://www.eigenmagic.com/2022/12/11/better-mastodon-sidekiq-scaling-with-systemd-environmentfile/  
 Optimizing Sidekiq for Mastodon 4.0.x: https://www.kujoe.blog/2023/01/optimizing-sidekiq-for-mastodon-40x.html  
 
 ## PostgreSQL
